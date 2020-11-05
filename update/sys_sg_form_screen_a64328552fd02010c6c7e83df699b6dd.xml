@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="NeedIt Last Quearter Icon">a24328552fd02010c6c7e83df699b6d9</icon>
+        <item_view display_value="NeedIt Last Quearter Header Item View">264328552fd02010c6c7e83df699b6db</item_view>
+        <name>NeedIt Last Quearter</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-04 13:23:02</sys_created_on>
+        <sys_id>a64328552fd02010c6c7e83df699b6dd</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>NeedIt Last Quearter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_form_screen_a64328552fd02010c6c7e83df699b6dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 11:00:10</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a64328552fd02010c6c7e83df699b6dd"/>
+</record_update>
